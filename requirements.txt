@@ -65,8 +65,7 @@ nbformat
 nest-asyncio
 notebook-shim
 numpy
-openpyxl
-openssl
+openpyxl==3.1.5
 overrides
 packaging
 pandas
