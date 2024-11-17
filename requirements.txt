@@ -51,7 +51,6 @@ jupyterlab_server
 kaggle
 kagglehub
 kiwisolver
-libffi
 libsodium
 markdown-it-py
 markupsafe
