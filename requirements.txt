@@ -10,7 +10,6 @@ beautifulsoup4
 bleach
 blinker
 brotli
-bzip2
 ca-certificates
 cachetools
 certifi
