@@ -48,7 +48,7 @@ jupyter_server_terminals==0.4.4
 jupyterlab==4.2.5
 kaggle==1.6.17
 kiwisolver==1.4.7
-libffi==3.4.4
+libffi
 libsodium==1.0.18
 markdown-it-py==3.0.0
 markupsafe==3.0.2
