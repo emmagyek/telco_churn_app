@@ -10,7 +10,6 @@ beautifulsoup4==4.12.3
 bleach==4.1.0
 blinker==1.8.2
 brotli
-ca-certificates
 cachetools
 certifi
 cffi
