@@ -9,7 +9,7 @@ babel==2.11.0
 beautifulsoup4==4.12.3
 bleach==4.1.0
 blinker==1.8.2
-brotli-python==1.0.9
+brotli
 bzip2==1.0.8
 ca-certificates==2024.9.24
 cachetools==5.5.0
