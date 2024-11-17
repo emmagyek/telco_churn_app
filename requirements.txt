@@ -83,7 +83,6 @@ pyarrow
 pycparser
 pydeck
 pygments
-pyparsing==3.2.0
 python
 python-dateutil
 python-fastjsonschema
