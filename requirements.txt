@@ -84,7 +84,7 @@ pycparser
 pydeck
 pygments
 pyparsing
-pysocks
+pysocks==1.7.1
 python
 python-dateutil
 python-fastjsonschema
