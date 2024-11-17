@@ -82,7 +82,6 @@ pure_eval
 pyarrow
 pycparser
 pydeck
-pygments
 python
 python-dateutil
 python-fastjsonschema
